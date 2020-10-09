@@ -80,7 +80,7 @@ response_json= response.json()
 print(type(response_json))
 f = open('demotest.txt','w')
 f.write(str(response_json[0]))
-print(response.txt)
+print(response.content
 
 
 
